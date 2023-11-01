@@ -1,0 +1,80 @@
+- id: Search
+  translation: Търси 
+
+- id: Edit this page
+  translation: Редактирай тази страница 
+
+- id: Last modified by
+  translation: Последна промяна от
+
+- id: Expand
+  translation: Разшири
+
+- id: bookSearchConfig
+  translation: '{ cache: true }'
+
+- id: 404_message
+  translation: "Хей! Изглеждаш леко загубен. Тази страница не съществува (или е лична)."
+
+- id: 404_back
+  translation: "↳ Да те приберем обратно."
+
+- id: all_posts
+  translation: "Всички {{.Title}}"
+
+- id: last_updated
+  translation: "Последна промяна на"
+
+- id: notes_count
+  translation: "записки с този таг"
+
+- id: first_10
+  translation: "показва първите 10 резултата"
+
+- id: tag
+  translation: "Таг"
+
+- id: backlinks
+  translation: "Обратни линкове"
+
+- id: no_backlinks
+  translation: "Не са намерени обратни линкове"
+
+- id: home
+  translation: "Начало"
+
+- id: light_mode
+  translation: "Светла тема"
+
+- id: dark_mode
+  translation: "Тъмна тема"
+
+- id: edit_source
+  translation: "Промяна на източник"
+
+- id: interactive_graph
+  translation: "Интерактивен граф"
+
+- id: search
+  translation: "Търсене"
+
+- id: search_icon
+  translation: "Икона за търсене"
+
+- id: icon_search
+  translation: "Икона за отваряне на търсачка"
+
+- id: recent_notes
+  translation: "Последни записки"
+
+- id: first_3_notes
+  translation: "първи 3 {{ .notes }}"
+
+- id: search_for_something
+  translation: "Потърси нещо..."
+
+- id: toc
+  translation: "Съдържание"
+
+- id: copyright
+  translation: "Направено с <a href=\"https://github.com/64bitpandas/amethyst\">Amethyst</a>, © {{ .year }} {{ .name }}"
